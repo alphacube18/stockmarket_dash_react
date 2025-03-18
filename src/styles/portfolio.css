@@ -1,0 +1,31 @@
+.portfolio {
+    background: #232323;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  .portfolio h2 {
+    color: #ffffff;
+  }
+  
+  .portfolio button {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .portfolio ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .portfolio li {
+    background: #333;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+  }
+  
